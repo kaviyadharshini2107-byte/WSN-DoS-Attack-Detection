@@ -1,0 +1,18 @@
+Feature,Selection_Count,Selection_Percentage
+SCH_S,5,100.0
+Data_Sent_To_BS,5,100.0
+Expaned Energy,5,100.0
+ADV_S,4,80.0
+JOIN_R,2,40.0
+DATA_S,2,40.0
+who CH,2,40.0
+Dist_To_CH,1,20.0
+ADV_R,1,20.0
+SCH_R,1,20.0
+DATA_R,1,20.0
+JOIN_S,0,0.0
+Is_CH,0,0.0
+Rank,0,0.0
+dist_CH_To_BS,0,0.0
+send_code,0,0.0
+Time,0,0.0

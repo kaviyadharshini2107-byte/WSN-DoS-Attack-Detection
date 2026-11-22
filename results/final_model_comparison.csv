@@ -1,0 +1,5 @@
+Model,Features,Test_Accuracy,Macro_F1
+CART - All Features,17,99.51,97.0
+Original GOA-GA - 14 Features,14,99.4495,96.64
+Balanced GOA-GA - 6 Features,6,99.4373,96.42
+Improved GOA-GA - 3 Features,3,98.2376,91.61

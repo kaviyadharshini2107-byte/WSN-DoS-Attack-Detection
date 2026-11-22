@@ -1,0 +1,5 @@
+Metric,Previous_Test_Set,New_Validation_Set
+Accuracy,99.4373,99.4044413986653
+Macro Precision,96.62,96.20108064315393
+Macro Recall,96.23,95.65478479357404
+Macro F1,96.42,95.92238958023725

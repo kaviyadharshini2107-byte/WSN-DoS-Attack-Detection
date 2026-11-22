@@ -1,0 +1,2 @@
+Model,Features,Accuracy,Macro_F1,Macro_Recall
+KNN,17,0.9953798627627873,0.97,0.97

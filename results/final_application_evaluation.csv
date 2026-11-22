@@ -1,0 +1,2 @@
+Model,Selected Features,Test Records,Accuracy,Macro Precision,Macro Recall,Macro F1
+Balanced GOA-GA + CART,6,73933,0.9943732839192242,0.9662314885636352,0.9622691016951072,0.9642301003265054

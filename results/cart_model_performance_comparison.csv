@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1,Features
+All 17 Features,99.51,97.0,17
+GOA-GA 14 Features,99.4495,96.64,14
+Six Stable Features,98.3566,87.281,6

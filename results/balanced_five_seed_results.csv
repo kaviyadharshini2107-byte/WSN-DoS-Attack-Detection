@@ -1,0 +1,6 @@
+Seed,Features_Selected,Validation_Accuracy,Selected_Features
+42,5,98.93333333333332,"['ADV_S', 'SCH_S', 'DATA_R', 'Data_Sent_To_BS', 'Expaned Energy']"
+100,6,98.73333333333333,"['who CH', 'ADV_S', 'JOIN_R', 'SCH_S', 'Data_Sent_To_BS', 'Expaned Energy']"
+200,6,98.86666666666667,"['ADV_S', 'JOIN_R', 'SCH_S', 'SCH_R', 'Data_Sent_To_BS', 'Expaned Energy']"
+300,5,98.33333333333333,"['ADV_R', 'SCH_S', 'DATA_S', 'Data_Sent_To_BS', 'Expaned Energy']"
+400,7,98.86666666666667,"['who CH', 'Dist_To_CH', 'ADV_S', 'SCH_S', 'DATA_S', 'Data_Sent_To_BS', 'Expaned Energy']"
